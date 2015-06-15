@@ -1,0 +1,3 @@
+FROM oraclelinux:6.6
+
+MAINTAINER Alex Kretzschma2
